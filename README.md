@@ -15,35 +15,35 @@ The Bamazon customer application has two main functions: displaying products ava
 
 Below you can see that starting the app via the command line will display the products currently in the database and prompt the user for which item they would like to purchase:
 
-![](capture1.png)
+![](capture1.PNG)
 
 After entering an item ID, the purchases will prompt you for how many you would like to purchase. If the inventory is available, the app calculate your total cost and subtract these items from the database, then disconnect you from the app.
 
-![](capture2.png)
+![](capture2.PNG)
 
 ###Bamazon Manager
 The Bamazon manager application has four main functions: displaying products for sale, viewing low inventory, adding to inventory, and adding new products. Upon loading the app in the command line, the user will be prompted as to which function they would like to utilize:
 
-![](capture3.png)
+![](capture3.PNG)
 
 Viewing products for sale:
 
-![](capture4.png)
+![](capture4.PNG)
 
 Viewing low inventory (any item with a quantity less than five):
 
-![](capture5.png)
+![](capture5.PNG)
 
 When selecting "Add to Inventory", the app will first display products in the database:
 
-![](capture6.png)
+![](capture6.PNG)
 
 The app will then prompt for which item you would like to add to, and how may to add to it:
 
-![](capture7.png)
+![](capture7.PNG)
 
 Selecting "Add New Product" will walk the user through the following prompts:
 
-![](capture8.png)
+![](capture8.PNG)
 
 
