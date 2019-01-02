@@ -1,0 +1,23 @@
+{
+  "name": "sqlnodeapp",
+  "version": "1.0.0",
+  "description": "The Bamazon sqlNodeApp is a command line, node-based javascript applicatio that allows customers to view and purchase items stored in a mySQL database. It also allows managers to view products, view low inventory, add to inventory, and add new products.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobTFranklin/sqlNodeApp.git"
+  },
+  "author": "Jacob Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobTFranklin/sqlNodeApp/issues"
+  },
+  "homepage": "https://github.com/JacobTFranklin/sqlNodeApp#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
